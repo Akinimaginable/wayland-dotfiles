@@ -1,1 +1,1 @@
-# wayland-dotfiles
+# My Wayland dotfiles
